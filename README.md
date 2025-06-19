@@ -5,13 +5,13 @@
 💻 I specialize in building responsive, user-friendly web and mobile interfaces using modern technologies.
 🔧 Tech stack:
 
-HTML5, CSS3, JavaScript
+✅ HTML5, CSS3, JavaScript
 
-React, React Native, Redux
+✅ React, React Native, Redux
 
-Figma, Adobe (UI/UX design)
+✅ Figma, Adobe (UI/UX design)
 
-Git, GitHub, REST APIs
+✅ Git, GitHub, REST APIs
 
 🎨 Passionate about clean design, intuitive user experiences, and continuous learning in the tech industry.
 
