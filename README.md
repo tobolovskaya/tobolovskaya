@@ -1,8 +1,20 @@
 # 👋 Hi there! I’m Yevheniia Tobolovska
 
-- 👀 Passionate about programming and excited to keep learning!
-- 🌱 Currently diving into **React** and expanding my skills.
-- 💻 Proficient in **HTML**, **CSS**, and **JavaScript**.
-- 📬 Feel free to reach out at: tobolovskaya@gmail.com
+🎯 Front-End Developer | UX/UI 
 
-Looking forward to connecting and exploring the tech world together!
+💻 I specialize in building responsive, user-friendly web and mobile interfaces using modern technologies.
+🔧 Tech stack:
+
+## HTML5, CSS3, JavaScript (ES6+)
+
+## React, React Native, Redux
+
+## Figma, Adobe (UI/UX design)
+
+## Git, GitHub, REST APIs
+
+🎨 Passionate about clean design, intuitive user experiences, and continuous learning in the tech industry.
+
+📍 Based in Norway | Open to remote opportunities and collaborations
+
+🚀 Looking forward to connecting and exploring the tech world together!
