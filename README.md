@@ -5,7 +5,7 @@
 💻 I specialize in building responsive, user-friendly web and mobile interfaces using modern technologies.
 🔧 Tech stack:
 
-### HTML5, CSS3, JavaScript (ES6+)
+** HTML5, CSS3, JavaScript **
 
 ### React, React Native, Redux
 
