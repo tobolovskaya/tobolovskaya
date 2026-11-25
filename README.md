@@ -1,21 +1,34 @@
-# 👋 Hi there! I’m Yevheniia Tobolovska
-https://my-portfolio-yevheniia-tobolovskas-projects.vercel.app/
+# Hi, I'm Yevheniia Tobolovska 👋
 
-🎯 Front-End Developer | UX/UI 
+**IT Operations & Security · Front-End Developer · UX/UI** · Norway 🇳🇴
 
-💻 I specialize in building responsive, user-friendly web and mobile interfaces using modern technologies.
-🔧 Tech stack:
+> Hei! Jeg jobber med IT-drift og sikkerhet, og utvikler apper og nettsider – fra design til drift.
 
-✅ HTML5, CSS3, JavaScript
+I combine **IT operations, cloud security and product development**: I keep devices and users secure,
+build infrastructure as code, and design and develop web and mobile apps.
 
-✅ React, React Native, Redux
+### 🔐 IT Operations & Security
+- Microsoft 365 · Entra ID · Intune · Autopilot · Conditional Access
+- Windows device imaging, endpoint configuration, user support
+- AWS (EKS, RDS, ECR, S3, KMS, IAM) · Terraform · Kubernetes · Helm
+- DevSecOps: Checkov · gitleaks · GitHub Actions · Jenkins · Argo CD
 
-✅ Figma, Adobe (UI/UX design)
+### 💻 Front-End & Mobile Development
+- JavaScript · TypeScript · React · React Native / Expo · Redux
+- Payments and sign-in: Stripe · Vipps · Google sign-in
+- WordPress websites with REST API integrations (energy price data)
+- Web platforms with practical guides and tools for life in Norway
 
-✅ Git, GitHub, REST APIs
+### 🎨 UX/UI
+- Figma · Adobe · responsive, user-friendly interfaces
+- Design that works on mobile first
 
-🎨 Passionate about clean design, intuitive user experiences, and continuous learning in the tech industry.
+### 📊 Data
+- Power BI for energy data
 
-📍 Based in Norway | Open to remote opportunities and collaborations
+### 🌍 Languages
+Ukrainian · Norwegian · English
 
-🚀 Looking forward to connecting and exploring the tech world together!
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/yevheniia-tobolovska) · 
+[Portfolio](https://my-portfolio-yevheniia-tobolovskas-projects.vercel.app/)
