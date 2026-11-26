@@ -31,4 +31,4 @@ Ukrainian · Norwegian · English
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/yevheniia-tobolovska) · 
-[Portfolio](https://my-portfolio-yevheniia-tobolovskas-projects.vercel.app/)
+[Portfolio](https://tobolovska.no)
